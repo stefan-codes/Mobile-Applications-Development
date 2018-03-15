@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">WorkoutNotes</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_home_message">Lovely app!\nSooon a graph will come here!\nReally didnt have time.</string>
+    <string name="title_new_exercise">New Exercise</string>
+    <string name="title_workouts">Workouts</string>
+    <string name="title_new_workout">New Workout</string>
+
+    <string name="hint_new_workout_name">Name for the workout</string>
+    <string name="hint_new_exercise_name">Name</string>
+
+    <string name="number_of_exer"> Number of exercises: </string>
+
+    <string name="exercise_one">Exercise One:</string>
+    <string name="exercise_two">Exercise Two:</string>
+    <string name="exercise_three">Exercise Three:</string>
+    <string name="exercise_four">Exercise Four:</string>
+    <string name="exercise_five">Exercise Five:</string>
+
+    <string name="button_save">Save</string>
+
+    <string name="sets_hint">Number of sets</string>
+    <string name="sets_cb">Use sets</string>
+    <string name="reps_hint">Number of reps</string>
+    <string name="reps_cb">Use reps</string>
+    <string name="weights_hint">How much weight (kg)</string>
+    <string name="weights_cb">Use weights</string>
+    <string name="speed_hint">How fast (km)</string>
+    <string name="speed_cb">Track speed</string>
+    <string name="time_hint">For how long (min)</string>
+    <string name="time_cb">Track duration</string>
+
+    <string name="exist_or_empty">The name exists or its empty!</string>
+
+    <string-array name="workout_category">
+        <item>Other</item>
+        <item>Cardio</item>
+        <item>Endurance</item>
+        <item>Legs</item>
+        <item>Chest</item>
+        <item>Back</item>
+        <item>Core</item>
+        <item>Arms</item>
+    </string-array>
+</resources>
